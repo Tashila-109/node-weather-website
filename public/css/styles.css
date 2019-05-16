@@ -14,6 +14,10 @@ body {
     flex-grow: 1;
 }
 
+.picture {
+    width: 550px;
+}
+
 footer {
     color: #888888;
     border-top: 1px solid #eeeeee;
@@ -53,9 +57,10 @@ button {
 #message-1 {
     margin-top: 30px;
     margin-bottom: 30px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 
 #message-2 {
     font-size: 1.1rem;
+    word-spacing: 0.3rem;
 }
